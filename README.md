@@ -44,6 +44,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/montassar-hamadi-076589151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hamadi Montassar" height="30" width="40" /></a>
-<a href="https://fb.com/wassim01wassouma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wassim01wassouma" height="30" width="40" /></a>
-<a href="https://instagram.com/wassim_mhamdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wassim_mhamdi" height="30" width="40" /></a>
+<a href="https://fb.com/montassar.hamadi.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wassim01wassouma" height="30" width="40" /></a>
 </p>
