@@ -1,17 +1,17 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MHAMDI Wassim</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm HAMADI Montassar</h1>
 <h3 align="center">I'm a passionate Full Stack Java Developer from Tunisia.</h3>
 
 ## 🙋‍♂️ About Me
 
--   🔭 I’m currently working at **[SIGA](https://www.linkedin.com/company/siga-informatique/)**
+-   🔭 I’m currently working at **[MDWEB](https://www.linkedin.com/company/mdweb/)**
 
 -   🌱 I’m currently learning **Data Structures and Algorithms.**
 
 -   👯 I’m looking to collaborate on **OpenSource Projects**
 
--   📫 How to reach me **wassimm7amdi@gmial.com**
+-   📫 How to reach me **hamadimontassar37@gmail.com**
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 <p align="left"> 
